@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.DotDashcom.testCases.IFrameTest"/>
+      <class name="com.DotDashcom.testCases.DynamicControlsTest"/>
+      
+      <class name="com.DotDashcom.testCases.NewWindowTest"/>
+      <class name="com.DotDashcom.testCases.RefreshTest"/>
+      <class name="com.DotDashcom.testCases.InvalidLoginTestCase"/>
+      <class name="com.DotDashcom.testCases.JavaScriptErrorsTest"/>
+      <class name="com.DotDashcom.testCases.JavaScriptAlertTest"/>
+      <class name="com.DotDashcom.testCases.ContextMenutest"/>
+      <class name="com.DotDashcom.testCases.FloatingMenuTest"/>
+      <class name="com.DotDashcom.testCases.MouseHoverTest"/>
+      <class name="com.DotDashcom.testCases.DragandDropTest"/>
+      <class name="com.DotDashcom.testCases.ValidLoginTestCase"/>
+      <class name="com.DotDashcom.testCases.FileUploadTest"/>
+      <class name="com.DotDashcom.testCases.FileDownloadTest"/>
+      
+     
+      <class name="com.DotDashcom.testCases.DropdownTest"/>
+      <class name="com.DotDashcom.testCases.NotificationMessageTest"/>
+       <class name="com.DotDashcom.testCases.DynamicLoadingTest"/>
+       <class name="com.DotDashcom.testCases.CheckBoxesTest"/>
+      <class name="com.DotDashcom.testCases.BaseClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

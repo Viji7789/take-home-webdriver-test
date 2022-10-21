@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="36" total="57" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T01:50:43 EDT" name="Suite" finished-at="2022-10-21T01:51:14 EDT" duration-ms="31356">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T01:50:43 EDT" name="Test" finished-at="2022-10-21T01:51:14 EDT" duration-ms="31356">
+      <class name="com.DotDashcom.testCases.DynamicLoadingTest">
+        <test-method signature="dynamic_loading()[pri:0, instance:com.DotDashcom.testCases.DynamicLoadingTest@4722ef0c]" started-at="2022-10-21T01:51:08 EDT" name="dynamic_loading" finished-at="2022-10-21T01:51:13 EDT" duration-ms="5552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamic_loading -->
+      </class> <!-- com.DotDashcom.testCases.DynamicLoadingTest -->
+      <class name="com.DotDashcom.testCases.DragandDropTest">
+        <test-method signature="drag_drop()[pri:0, instance:com.DotDashcom.testCases.DragandDropTest@3cce5371]" started-at="2022-10-21T01:51:03 EDT" name="drag_drop" finished-at="2022-10-21T01:51:04 EDT" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drag_drop -->
+      </class> <!-- com.DotDashcom.testCases.DragandDropTest -->
+      <class name="com.DotDashcom.testCases.MouseHoverTest">
+        <test-method signature="hover()[pri:0, instance:com.DotDashcom.testCases.MouseHoverTest@3ad83a66]" started-at="2022-10-21T01:51:02 EDT" name="hover" finished-at="2022-10-21T01:51:03 EDT" duration-ms="930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hover -->
+      </class> <!-- com.DotDashcom.testCases.MouseHoverTest -->
+      <class name="com.DotDashcom.testCases.RefreshTest">
+        <test-method signature="refresh()[pri:0, instance:com.DotDashcom.testCases.RefreshTest@239a307b]" started-at="2022-10-21T01:50:58 EDT" name="refresh" finished-at="2022-10-21T01:50:59 EDT" duration-ms="589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+      </class> <!-- com.DotDashcom.testCases.RefreshTest -->
+      <class name="com.DotDashcom.testCases.ValidLoginTestCase">
+        <test-method signature="success_logintest()[pri:0, instance:com.DotDashcom.testCases.ValidLoginTestCase@17bffc17]" started-at="2022-10-21T01:51:04 EDT" name="success_logintest" finished-at="2022-10-21T01:51:04 EDT" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- success_logintest -->
+      </class> <!-- com.DotDashcom.testCases.ValidLoginTestCase -->
+      <class name="com.DotDashcom.testCases.DynamicControlsTest">
+        <test-method signature="dynamic_checkbox()[pri:0, instance:com.DotDashcom.testCases.DynamicControlsTest@7bd7d6d6]" started-at="2022-10-21T01:50:44 EDT" name="dynamic_checkbox" finished-at="2022-10-21T01:50:51 EDT" duration-ms="6918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamic_checkbox -->
+        <test-method signature="dynamic_textbox()[pri:0, instance:com.DotDashcom.testCases.DynamicControlsTest@7bd7d6d6]" started-at="2022-10-21T01:50:51 EDT" name="dynamic_textbox" finished-at="2022-10-21T01:50:58 EDT" duration-ms="6590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamic_textbox -->
+      </class> <!-- com.DotDashcom.testCases.DynamicControlsTest -->
+      <class name="com.DotDashcom.testCases.IFrameTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.DotDashcom.testCases.IFrameTest@4201c465]" started-at="2022-10-21T01:50:39 EDT" name="setup" finished-at="2022-10-21T01:50:43 EDT" duration-ms="3890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="frametest()[pri:0, instance:com.DotDashcom.testCases.IFrameTest@4201c465]" started-at="2022-10-21T01:50:43 EDT" name="frametest" finished-at="2022-10-21T01:50:44 EDT" duration-ms="1362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frametest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.DotDashcom.testCases.IFrameTest@4201c465]" started-at="2022-10-21T01:51:14 EDT" name="tearDown" finished-at="2022-10-21T01:51:14 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.DotDashcom.testCases.IFrameTest -->
+      <class name="com.DotDashcom.testCases.CheckBoxesTest">
+        <test-method signature="checks_test()[pri:0, instance:com.DotDashcom.testCases.CheckBoxesTest@48e1f6c7]" started-at="2022-10-21T01:51:13 EDT" name="checks_test" finished-at="2022-10-21T01:51:14 EDT" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checks_test -->
+        <test-method signature="unchecks_test()[pri:0, instance:com.DotDashcom.testCases.CheckBoxesTest@48e1f6c7]" started-at="2022-10-21T01:51:14 EDT" name="unchecks_test" finished-at="2022-10-21T01:51:14 EDT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unchecks_test -->
+      </class> <!-- com.DotDashcom.testCases.CheckBoxesTest -->
+      <class name="com.DotDashcom.testCases.DropdownTest">
+        <test-method signature="dropdown()[pri:0, instance:com.DotDashcom.testCases.DropdownTest@5b38c1ec]" started-at="2022-10-21T01:51:05 EDT" name="dropdown" finished-at="2022-10-21T01:51:06 EDT" duration-ms="946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+      </class> <!-- com.DotDashcom.testCases.DropdownTest -->
+      <class name="com.DotDashcom.testCases.JavaScriptAlertTest">
+        <test-method signature="alerts()[pri:0, instance:com.DotDashcom.testCases.JavaScriptAlertTest@2de56eb2]" started-at="2022-10-21T01:51:00 EDT" name="alerts" finished-at="2022-10-21T01:51:01 EDT" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerts -->
+      </class> <!-- com.DotDashcom.testCases.JavaScriptAlertTest -->
+      <class name="com.DotDashcom.testCases.FileDownloadTest">
+        <test-method signature="download()[pri:0, instance:com.DotDashcom.testCases.FileDownloadTest@15a34df2]" started-at="2022-10-21T01:51:05 EDT" name="download" finished-at="2022-10-21T01:51:05 EDT" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- download -->
+      </class> <!-- com.DotDashcom.testCases.FileDownloadTest -->
+      <class name="com.DotDashcom.testCases.FileUploadTest">
+        <test-method signature="Upload()[pri:0, instance:com.DotDashcom.testCases.FileUploadTest@6e535154]" started-at="2022-10-21T01:51:04 EDT" name="Upload" finished-at="2022-10-21T01:51:05 EDT" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Upload -->
+      </class> <!-- com.DotDashcom.testCases.FileUploadTest -->
+      <class name="com.DotDashcom.testCases.NewWindowTest">
+        <test-method signature="newwindow()[pri:0, instance:com.DotDashcom.testCases.NewWindowTest@43f02ef2]" started-at="2022-10-21T01:50:58 EDT" name="newwindow" finished-at="2022-10-21T01:50:58 EDT" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newwindow -->
+      </class> <!-- com.DotDashcom.testCases.NewWindowTest -->
+      <class name="com.DotDashcom.testCases.NotificationMessageTest">
+        <test-method signature="successnotificationmsg()[pri:0, instance:com.DotDashcom.testCases.NotificationMessageTest@338fc1d8]" started-at="2022-10-21T01:51:06 EDT" name="successnotificationmsg" finished-at="2022-10-21T01:51:07 EDT" duration-ms="583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successnotificationmsg -->
+        <test-method signature="unsuccessnotificationmsg()[pri:0, instance:com.DotDashcom.testCases.NotificationMessageTest@338fc1d8]" started-at="2022-10-21T01:51:07 EDT" name="unsuccessnotificationmsg" finished-at="2022-10-21T01:51:08 EDT" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unsuccessnotificationmsg -->
+      </class> <!-- com.DotDashcom.testCases.NotificationMessageTest -->
+      <class name="com.DotDashcom.testCases.JavaScriptErrorsTest">
+        <test-method signature="OnloadError()[pri:0, instance:com.DotDashcom.testCases.JavaScriptErrorsTest@6f204a1a]" started-at="2022-10-21T01:51:00 EDT" name="OnloadError" finished-at="2022-10-21T01:51:00 EDT" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnloadError -->
+      </class> <!-- com.DotDashcom.testCases.JavaScriptErrorsTest -->
+      <class name="com.DotDashcom.testCases.InvalidLoginTestCase">
+        <test-method signature="Failure_login()[pri:0, instance:com.DotDashcom.testCases.InvalidLoginTestCase@2a8448fa]" started-at="2022-10-21T01:50:59 EDT" name="Failure_login" finished-at="2022-10-21T01:51:00 EDT" duration-ms="1342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Failure_login -->
+      </class> <!-- com.DotDashcom.testCases.InvalidLoginTestCase -->
+      <class name="com.DotDashcom.testCases.FloatingMenuTest">
+        <test-method signature="floatingmenu()[pri:0, instance:com.DotDashcom.testCases.FloatingMenuTest@5745ca0e]" started-at="2022-10-21T01:51:01 EDT" name="floatingmenu" finished-at="2022-10-21T01:51:02 EDT" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- floatingmenu -->
+      </class> <!-- com.DotDashcom.testCases.FloatingMenuTest -->
+      <class name="com.DotDashcom.testCases.ContextMenutest">
+        <test-method signature="right_click()[pri:0, instance:com.DotDashcom.testCases.ContextMenutest@5f8e8a9d]" started-at="2022-10-21T01:51:01 EDT" name="right_click" finished-at="2022-10-21T01:51:01 EDT" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- right_click -->
+      </class> <!-- com.DotDashcom.testCases.ContextMenutest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
