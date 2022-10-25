@@ -18,9 +18,7 @@
       <class name="com.DotDashcom.testCases.ValidLoginTestCase"/>
       <class name="com.DotDashcom.testCases.FileUploadTest"/>
       <class name="com.DotDashcom.testCases.FileDownloadTest"/>
-      
-     
-      <class name="com.DotDashcom.testCases.DropdownTest"/>
+     <class name="com.DotDashcom.testCases.DropdownTest"/>
       <class name="com.DotDashcom.testCases.NotificationMessageTest"/>
        <class name="com.DotDashcom.testCases.DynamicLoadingTest"/>
        <class name="com.DotDashcom.testCases.CheckBoxesTest"/>
